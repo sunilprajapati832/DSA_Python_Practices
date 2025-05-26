@@ -7,4 +7,5 @@ python-daily-practice/
 ├── day_02_middle-of-the-linked-list.py
 ├── day_03_linked_list.py
 ├── day_04_recursion.py (factorial)
+├── day_05_OOP.py (class, object)
 └── ...
