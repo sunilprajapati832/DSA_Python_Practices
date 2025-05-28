@@ -9,4 +9,6 @@ python-daily-practice/
 ├── day_04_recursion.py (factorial)
 ├── day_05_OOP.py (class, object)
 ├── day_06_Ransome Note Leet Code 383.py
+├── day_07_TwoSumLeetCode.py
+├── day_07_ValidPalindromeLeetCode.py
 └── ...
