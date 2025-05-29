@@ -11,4 +11,6 @@ python-daily-practice/
 ├── day_06_Ransome Note Leet Code 383.py
 ├── day_07_TwoSumLeetCode.py
 ├── day_07_ValidPalindromeLeetCode.py
+├── day_08_best-time-to-buy-and-sell-stock-leet-code.py
+├── day_08_
 └── ...
