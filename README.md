@@ -15,4 +15,6 @@ python-daily-practice/
 ├── day_08_maximum-subarray.py
 ├── day_09_maximum-average-subarray-sliding-window.py
 ├── day_09_longest-substring-without-repeating-characters.py
+├── day_10_longest-repeating-character-replacement.py
+├── day_10_
 └── ...
