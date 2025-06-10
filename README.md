@@ -18,4 +18,5 @@ python-daily-practice/
 ├── day_10_longest-repeating-character-replacement.py
 ├── day_11_minimum-size-subarray-sum.py
 ├── day_11_minimum-size-subarray-sum.py
+├── day_12_minimum-size-subarray-sum.py
 └── ...
