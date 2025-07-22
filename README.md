@@ -25,5 +25,4 @@ python-daily-practice/
 └──
 
 
-
 ...
