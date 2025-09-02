@@ -1,4 +1,4 @@
-ki# DSA_Python_Practices
+# DSA_Python_Practices
 DSA practices using python programming language
 
 python-daily-practice/
